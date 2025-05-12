@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talks.DotNetContainerization.SampleService", "Talks.DotNetContainerization.SampleService\Talks.DotNetContainerization.SampleService.csproj", "{E801B3A5-89BC-43CB-8C96-E9689BC81C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talks.DotNetContainerization.SampleServiceWithDocker", "Talks.DotNetContainerization.SampleServiceWithDocker\Talks.DotNetContainerization.SampleServiceWithDocker.csproj", "{6DCF3ACB-4A5C-4315-AC7D-336E0AF2F90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talks.DotNetContainerization.SampleServiceWithDockerExt", "Talks.DotNetContainerization.SampleServiceWithDockerExt\Talks.DotNetContainerization.SampleServiceWithDockerExt.csproj", "{D5DE74BE-1A27-47C9-B1BB-81846D938AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talks.DotNetContainerization.SampleServiceWithDockerChiseled", "Talks.DotNetContainerization.SampleServiceWithDockerChiseled\Talks.DotNetContainerization.SampleServiceWithDockerChiseled.csproj", "{F69C4F81-6B85-4A00-B119-D5E97979888F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talks.DotNetContainerization.SampleServiceWithDockerBySdk", "Talks.DotNetContainerization.SampleServiceWithDockerBySdk\Talks.DotNetContainerization.SampleServiceWithDockerBySdk.csproj", "{8CB9EF1D-9426-4627-9C1C-1E76687EED5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E801B3A5-89BC-43CB-8C96-E9689BC81C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E801B3A5-89BC-43CB-8C96-E9689BC81C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E801B3A5-89BC-43CB-8C96-E9689BC81C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E801B3A5-89BC-43CB-8C96-E9689BC81C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCF3ACB-4A5C-4315-AC7D-336E0AF2F90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCF3ACB-4A5C-4315-AC7D-336E0AF2F90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCF3ACB-4A5C-4315-AC7D-336E0AF2F90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCF3ACB-4A5C-4315-AC7D-336E0AF2F90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DE74BE-1A27-47C9-B1BB-81846D938AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DE74BE-1A27-47C9-B1BB-81846D938AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DE74BE-1A27-47C9-B1BB-81846D938AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DE74BE-1A27-47C9-B1BB-81846D938AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69C4F81-6B85-4A00-B119-D5E97979888F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69C4F81-6B85-4A00-B119-D5E97979888F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69C4F81-6B85-4A00-B119-D5E97979888F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69C4F81-6B85-4A00-B119-D5E97979888F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB9EF1D-9426-4627-9C1C-1E76687EED5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB9EF1D-9426-4627-9C1C-1E76687EED5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB9EF1D-9426-4627-9C1C-1E76687EED5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB9EF1D-9426-4627-9C1C-1E76687EED5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

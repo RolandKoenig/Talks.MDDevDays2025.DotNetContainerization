@@ -1,6 +1,6 @@
 
 ## SampleServiceWithDocker
-```powershell
+```bash
 docker build -f Talks.DotNetContainerization.SampleServiceWithDocker/Dockerfile -t sample-service-with-docker .
 ```
 
@@ -10,16 +10,16 @@ ls -l /proc/*/exe
 ```
 
 ## SampleServiceWithDockerExt
-```powershell
+```bash
 docker build -f Talks.DotNetContainerization.SampleServiceWithDockerExt/Dockerfile -t sample-service-with-docker-ext .
 ```
 
 ## SampleServiceWithDockerChiseled
-```powershell
+```bash
 docker build -f Talks.DotNetContainerization.SampleServiceWithDockerChiseled/Dockerfile -t sample-service-with-docker-chiseled .
 ```
 
 ## SampleServiceWithDockerBySdk
-```powershell
+```bash
 dotnet publish Talks.DotNetContainerization.SampleServiceWithDockerBySdk/Talks.DotNetContainerization.SampleServiceWithDockerBySdk.csproj /t:PublishContainer
 ```
